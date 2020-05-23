@@ -6,5 +6,5 @@ Since XML files aren't very pleasing to work with when it comes to finding a spe
 
 The script produces a float() as a result which is the AC_Power readout from the inverter.
 
-# Known issues & To-do
+## Known issues & To-do
 Add code to handle possible disconnects and if the inverter fails to deliver an XML file.
